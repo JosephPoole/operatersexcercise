@@ -1,0 +1,8 @@
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Operatorsexercise\bin\Debug\Operatorsexercise.exe.config
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Operatorsexercise\bin\Debug\Operatorsexercise.exe
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Operatorsexercise\bin\Debug\Operatorsexercise.pdb
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Operatorsexercise\obj\Debug\Operatorsexercise.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Operatorsexercise\obj\Debug\Operatorsexercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Operatorsexercise\obj\Debug\Operatorsexercise.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Operatorsexercise\obj\Debug\Operatorsexercise.exe
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Operatorsexercise\obj\Debug\Operatorsexercise.pdb
